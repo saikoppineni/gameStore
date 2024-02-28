@@ -1,0 +1,82 @@
+
+ul{
+    display:flex;
+    padding-top: 60px;
+    list-style-type:none;
+}
+#main
+{
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    padding-top: 0px;
+    padding-left: 23px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+#photo{
+    height: 450px;
+    width: 450px;
+    border-radius: 100px;
+}
+#tag{
+    padding-left: 23px ;
+
+}
+#comp{
+    margin:10px 0px 0px 0px;
+}
+#con{
+    font-size: 40px;
+    margin:0px;
+}
+#ad{
+    margin-top:0px;
+    padding: opx;
+    font-size: 30px;
+    font-weight: bold;
+    border: 0px;
+
+}
+#rev{
+    margin:0px 0px 0px 0px;
+}
+#install{
+    border:solid black 3px;
+    border-radius: 10px;
+    margin:10px 0px 10px 22px ;
+    padding: 3px 0px ;
+    background-color: green;
+    border-color: green;
+}
+ul
+{
+    list-style-type: none;    
+    display:flex;
+    overflow-y:scroll;
+    overflow-x:scroll;
+}
+#phot
+{
+    width:400px;
+    height: 350px;
+    margin: 5px;
+}
+#about
+{
+    margin-left: 40px;
+}
+#sim
+{
+    margin-left: 40px ;
+}
+#sim a{
+    color : black;
+}
+#game
+{
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
